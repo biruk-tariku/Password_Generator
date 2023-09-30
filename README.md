@@ -1,6 +1,6 @@
 # Password_Generator_python
 
-the code defines a function `generate_password` that generates a random password based on certain criteria, and it also appends the generated password to a file named "passwords.txt." Here's how the code works:
+the code defines a function `generate_password` that generates a random password based on certain criteria, and it also appends the generated password to a file named "passwords.txt." Here's how the code works :
 
 1. The `generate_password` function takes five arguments:
    - `length`: The desired length of the password.
